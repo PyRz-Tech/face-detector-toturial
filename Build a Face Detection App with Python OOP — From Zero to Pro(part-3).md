@@ -67,4 +67,4 @@ All detectors expect the same `.img`.
 If you add preprocessing later (resize, normalization), you only add it here.
 
 ---
-[![Main Repo](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](README.md)
+[![Main Repo](https://img.shields.io/badge/Main_Repo-000000?style=flat&logo=github&logoColor=white)](README.md)
