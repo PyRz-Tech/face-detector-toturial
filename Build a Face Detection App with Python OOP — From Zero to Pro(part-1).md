@@ -102,4 +102,4 @@ If you have multiple cameras:
 This project uses webcam input in both OpenCVBase and FaceApp.
 
 ---
-[![Main Repo](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](README.md)
+[![Main Repo](https://img.shields.io/badge/Main_Repo-000000?style=flat&logo=github&logoColor=white)](README.md)
