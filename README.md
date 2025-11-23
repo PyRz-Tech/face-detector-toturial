@@ -9,4 +9,3 @@
 | 5    | View Rendering + Complete Real-Time FaceApp Loop                     | [![read](https://img.shields.io/badge/Part_5_Read_Now-0A66C2?style=flat&logo=github&logoColor=white&label=&labelColor=0A66C2&color=0A66C2)](https://github.com/PyRz-Tech/face-detector-toturial/blob/main/Build%20a%20Face%20Detection%20App%20with%20Python%20OOP%20%E2%80%94%20From%20Zero%20to%20Pro(part-5).md) |
 
 [![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
-[![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](../README.md)
